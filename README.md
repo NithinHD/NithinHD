@@ -18,7 +18,8 @@ Here are some of the projects I've been worked on:
 
 Feel free to reach out to me if you have any questions or just want to connect:
 
-- Email: `nitindinesh2004@gmail.com`
+- Email: `nithinhd088@gmail.com`
 - LinkedIn: [Nithin H D](https://www.linkedin.com/in/nithin-h-d/)
+- HackerRank: [Nithin H D](https://www.hackerrank.com/profile/NithinHD)
 
 Thanks for visiting my repository! Happy coding! 🚀
