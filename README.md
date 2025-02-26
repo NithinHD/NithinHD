@@ -10,8 +10,9 @@ I'm a `Student` with a passion for technology. I love exploring new technologies
 
 Here are some of the projects I've been worked on:
 
-- [Image Colorizer](https://github.com/NithinHD/Image-colorizer).
-- [HyperSpectral Image Classification](https://github.com/NithinHD/HyperSpectral-Image-Classification).
+- [Image Colorizer](https://github.com/NithinHD/Image-colorizer) - **Completed**
+- [HyperSpectral Image Classification](https://github.com/NithinHD/HyperSpectral-Image-Classification) - **Completed**
+- [Defense Against Gradient Inversion Attack](https://github.com/NithinHD/Defense-Against-Gradient-Inversion-Attacks--A-Federated-Learning-Approach-with-Surrogate-Models) - **Ongoing**
 
 #### Contact Me
 
